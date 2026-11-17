@@ -2,7 +2,7 @@ module github.com/terraform-google-modules/terraform-google-scheduled-function/m
 
 go 1.26.0
 
-toolchain go1.26.10
+toolchain go1.26.11
 
 require (
 	cloud.google.com/go/asset v1.30.1
